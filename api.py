@@ -5,7 +5,7 @@ import pickle
 import os
 
 app = Flask(__name__)
-rf_model = pickle.load(open('trained_model.pkl', 'rb'))
+rf_model = pickle.load(open('trained_model(1).pkl', 'rb'))
 
 @app.route('/')
 def home():
