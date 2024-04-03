@@ -1,3 +1,3 @@
-# ADMA-ML_Finall_project
-#### Advanced data mining and analysis pluse machine learning courses finall project.
-#### From scraping data to using Flask for predictions using a regression model with elastic net.
+
+#### Advanced DM and ML courses final project (06.2023)
+#### From data scraping to Flask with a prediction model based on Elastic-Net regression.
